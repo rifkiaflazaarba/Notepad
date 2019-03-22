@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Catatanku</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="activity_title_home">Catatan</string>
+    <string name="msg_no_notes">Belum ada catatan!</string>
+    <string name="lbl_new_note_title">Buat Catatan</string>
+    <string name="lbl_edit_note_title">Edit Catatan</string>
+    <string name="hint_enter_note">Tulis catatanmu!</string>
+</resources>
